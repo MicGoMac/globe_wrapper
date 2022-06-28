@@ -13,7 +13,7 @@ To:
 Consideration was taken to allow flexibility of number of slices.
 
 Enter a reasonable number, with a source file of good resolution.
-( NASA is a good source. Files with at least 3000 x 1500 is prefered. )
+( NASA is a good source. Files with at least 3000 x 1500 prefered. )
 
 Dependency:
 php GD, which comes in standard installation of php.
